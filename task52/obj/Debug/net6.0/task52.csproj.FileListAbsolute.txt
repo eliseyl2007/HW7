@@ -1,0 +1,16 @@
+C:\Examples\task52\bin\Debug\net6.0\task52.exe
+C:\Examples\task52\bin\Debug\net6.0\task52.deps.json
+C:\Examples\task52\bin\Debug\net6.0\task52.runtimeconfig.json
+C:\Examples\task52\bin\Debug\net6.0\task52.dll
+C:\Examples\task52\bin\Debug\net6.0\ref\task52.dll
+C:\Examples\task52\bin\Debug\net6.0\task52.pdb
+C:\Examples\task52\obj\Debug\net6.0\task52.GlobalUsings.g.cs
+C:\Examples\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Examples\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Examples\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Examples\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
+C:\Examples\task52\obj\Debug\net6.0\task52.dll
+C:\Examples\task52\obj\Debug\net6.0\ref\task52.dll
+C:\Examples\task52\obj\Debug\net6.0\task52.pdb
+C:\Examples\task52\obj\Debug\net6.0\task52.genruntimeconfig.cache
