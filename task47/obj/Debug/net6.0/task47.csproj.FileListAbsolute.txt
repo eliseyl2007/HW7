@@ -1,0 +1,16 @@
+C:\Examples\task47\obj\Debug\net6.0\task47.GlobalUsings.g.cs
+C:\Examples\task47\obj\Debug\net6.0\task47.csproj.AssemblyReference.cache
+C:\Examples\task47\obj\Debug\net6.0\task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task47\obj\Debug\net6.0\task47.AssemblyInfoInputs.cache
+C:\Examples\task47\obj\Debug\net6.0\task47.AssemblyInfo.cs
+C:\Examples\task47\obj\Debug\net6.0\task47.csproj.CoreCompileInputs.cache
+C:\Examples\task47\bin\Debug\net6.0\task47.exe
+C:\Examples\task47\bin\Debug\net6.0\task47.deps.json
+C:\Examples\task47\bin\Debug\net6.0\task47.runtimeconfig.json
+C:\Examples\task47\bin\Debug\net6.0\task47.dll
+C:\Examples\task47\bin\Debug\net6.0\ref\task47.dll
+C:\Examples\task47\bin\Debug\net6.0\task47.pdb
+C:\Examples\task47\obj\Debug\net6.0\task47.dll
+C:\Examples\task47\obj\Debug\net6.0\ref\task47.dll
+C:\Examples\task47\obj\Debug\net6.0\task47.pdb
+C:\Examples\task47\obj\Debug\net6.0\task47.genruntimeconfig.cache
